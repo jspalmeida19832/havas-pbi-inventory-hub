@@ -1,6 +1,6 @@
 # GUI vs Console — Diferenças
 
-![PBI Inventory Framework Versions Infographic](gui_console_versions.png)
+![PBI Inventory Framework Versions Infographic](assets/gui_console_versions.png)
 
 ---
 
